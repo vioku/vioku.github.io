@@ -9,6 +9,7 @@
          "rating":4.8,
          "stock":94,
          "condition":"Baru",
+         "minbuy":1,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/3916f00d-6715-4130-b947-d8294572418e.png",
          "images":[
@@ -40,6 +41,7 @@
          "rating":5,
          "stock":46,
          "condition":"Baru",
+         "minbuy":1,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/ab8be3ca-5cf2-48ee-9f5a-0037f79a7df6.jpg",
          "images":[
@@ -72,6 +74,7 @@
          "rating":4.9,
          "stock":66,
          "condition":"Baru",
+         "minbuy":1,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/12/21/24acc504-dd53-4dce-905e-a77ddd7bd7f6.png",
          "images":[
@@ -100,6 +103,8 @@
          "discountPercentage":4,
          "rating":4.9,
          "stock":98,
+         "condition":"Baru",
+         "minbuy":1,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/8279f4ad-6230-4362-90b9-2c3cdaff900a.jpg",
          "images":[
@@ -127,6 +132,8 @@
          "discountPercentage":23,
          "rating":4.7,
          "stock":52,
+         "condition":"Baru",
+         "minbuy":1,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/461b08c0-7e97-4ad5-bb2a-133303aee1db.jpg",
          "images":[
