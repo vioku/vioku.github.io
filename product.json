@@ -159,14 +159,7 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/685815d6-0bf7-4f51-9228-9c51570bc40d.jpg",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/1/7fc06090-89ca-4487-bdd1-f4c7f7258da5.jpg"
          ],
-         "variant":[
-            {
-               "warna":[
-                  "Hitam",
-                  "Gold"
-               ]
-            }
-         ]
+         "variant":[]
       }
    ],
    "success":true,
