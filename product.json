@@ -19,20 +19,22 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/d73d8ebe-4269-4f41-a65a-1eaeec4f5de2.jpg",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/a8c1c9d6-0837-4ad5-a0c3-e553b614462b.png"
          ],
-         "variant":{
-            "warna":[
-               "Black",
-               "Blue",
-               "Yellow",
-               "Pink",
-               "Green"
-            ],
-            "memori":[
-               "128GB",
-               "256GB",
-               "512GB"
-            ]
-         }
+         "variant":[
+            {
+               "warna":[
+                  "Black",
+                  "Blue",
+                  "Yellow",
+                  "Pink",
+                  "Green"
+               ],
+               "memori":[
+                  "128GB",
+                  "256GB",
+                  "512GB"
+               ]
+            }
+         ]
       },
       {
          "id":2,
@@ -45,7 +47,7 @@
          "stock":46,
          "condition":"Baru",
          "minbuy":1,
-          "unitWeight":900,
+         "unitWeight":900,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/ab8be3ca-5cf2-48ee-9f5a-0037f79a7df6.jpg",
          "images":[
@@ -53,21 +55,23 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/17/08d57704-11ec-4676-8cb3-faa1dbfb5555.jpg",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/3582a94f-f64e-4467-8b29-b90a6900af02.jpg"
          ],
-         "variant":{
-            "warna":[
-               "Midnight Black",
-               "Starlight White",
-               "Blue",
-               "Yellow",
-               "Pink",
-               "Green"
-            ],
-            "memori":[
-               "128GB",
-               "256GB",
-               "512GB"
-            ]
-         }
+         "variant":[
+            {
+               "warna":[
+                  "Midnight Black",
+                  "Starlight White",
+                  "Blue",
+                  "Yellow",
+                  "Pink",
+                  "Green"
+               ],
+               "memori":[
+                  "128GB",
+                  "256GB",
+                  "512GB"
+               ]
+            }
+         ]
       },
       {
          "id":3,
@@ -80,7 +84,7 @@
          "stock":66,
          "condition":"Baru",
          "minbuy":1,
-          "unitWeight":900,
+         "unitWeight":900,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/12/21/24acc504-dd53-4dce-905e-a77ddd7bd7f6.png",
          "images":[
@@ -89,17 +93,19 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/310e6e8a-3938-47a4-8b78-eaacd70d3735.png",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/f3b5fd54-76ce-4487-9234-372475fdea4c.png"
          ],
-         "variant":{
-            "warna":[
-               "Putih",
-               "Hitam",
-               "Biru"
-            ],
-            "capacity":[
-               "8+256GB",
-               "12+256GB"
-            ]
-         }
+         "variant":[
+            {
+               "warna":[
+                  "Putih",
+                  "Hitam",
+                  "Biru"
+               ],
+               "capacity":[
+                  "8+256GB",
+                  "12+256GB"
+               ]
+            }
+         ]
       },
       {
          "id":4,
@@ -112,7 +118,7 @@
          "stock":98,
          "condition":"Baru",
          "minbuy":1,
-          "unitWeight":900,
+         "unitWeight":900,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/8279f4ad-6230-4362-90b9-2c3cdaff900a.jpg",
          "images":[
@@ -122,15 +128,17 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/4/3/2b0f0334-175c-4354-b196-2a4ee2a246cc.png",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/4/3/281361e4-c9cf-4855-8a50-ffb20eeba4f9.png"
          ],
-         "variant":{
-            "warna":[
-               "Sky Blue",
-               "Midnight Black"
-            ],
-            "memori":[
-               "8/256GB"
-            ]
-         }
+         "variant":[
+            {
+               "warna":[
+                  "Sky Blue",
+                  "Midnight Black"
+               ],
+               "memori":[
+                  "8/256GB"
+               ]
+            }
+         ]
       },
       {
          "id":5,
@@ -143,7 +151,7 @@
          "stock":52,
          "condition":"Baru",
          "minbuy":1,
-          "unitWeight":900,
+         "unitWeight":900,
          "category":"smartphones",
          "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/461b08c0-7e97-4ad5-bb2a-133303aee1db.jpg",
          "images":[
@@ -151,12 +159,14 @@
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/685815d6-0bf7-4f51-9228-9c51570bc40d.jpg",
             "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/1/7fc06090-89ca-4487-bdd1-f4c7f7258da5.jpg"
          ],
-         "variant":{
-            "warna":[
-               "Hitam",
-               "Gold"
-            ]
-         }
+         "variant":[
+            {
+               "warna":[
+                  "Hitam",
+                  "Gold"
+               ]
+            }
+         ]
       }
    ],
    "success":true,
