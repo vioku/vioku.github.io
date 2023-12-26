@@ -1,559 +1,148 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "iPhone 9",
-            "description": "An apple mobile which is nothing like apple",
-            "price": 549,
-            "discountPercentage": 12.96,
-            "rating": 4.69,
-            "stock": 94,
-            "brand": "Apple",
-            "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/1/1.jpg",
-                "https://i.dummyjson.com/data/products/1/2.jpg",
-                "https://i.dummyjson.com/data/products/1/3.jpg",
-                "https://i.dummyjson.com/data/products/1/4.jpg",
-                "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+   "products":[
+      {
+         "id":1,
+         "title":"Apple iPhone 15 Garansi Resmi - 128GB 256GB 512GB",
+         "description":"iPhone 15 Pro. Lahir dari titanium dan dilengkapi chip A17 Pro terobosan,\ntombol Tindakan yang dapat disesuaikan, dan sistem kamera Pro yang lebih serbaguna.\nIsi Kotak :\n• iPhone dengan iOS 17.\n• Kabel USB-C ke USB-C.\n• Buku Manual dan dokumentasi lain.",
+         "price":19499000,
+         "discountPercentage":19,
+         "rating":4.8,
+         "stock":94,
+         "condition":"Baru",
+         "category":"smartphones",
+         "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/3916f00d-6715-4130-b947-d8294572418e.png",
+         "images":[
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/3916f00d-6715-4130-b947-d8294572418e.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/d73d8ebe-4269-4f41-a65a-1eaeec4f5de2.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/6/a8c1c9d6-0837-4ad5-a0c3-e553b614462b.png"
+         ],
+         "variant":{
+            "warna":[
+               "Black",
+               "Blue",
+               "Yellow",
+               "Pink",
+               "Green"
+            ],
+            "memori":[
+               "128GB",
+               "256GB",
+               "512GB"
             ]
-        },
-        {
-            "id": 2,
-            "title": "iPhone X",
-            "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
-            "price": 899,
-            "discountPercentage": 17.94,
-            "rating": 4.44,
-            "stock": 34,
-            "brand": "Apple",
-            "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/2/1.jpg",
-                "https://i.dummyjson.com/data/products/2/2.jpg",
-                "https://i.dummyjson.com/data/products/2/3.jpg",
-                "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+         }
+      },
+      {
+         "id":2,
+         "title":"Apple iPhone 13 Garansi Resmi - 128GB 256GB 512GB",
+         "description":"iPhone 13. Sistem kamera ganda paling canggih yang pernah ada di iPhone. Chip A15 Bionic yang secepat kilat. Lompatan besar dalam kekuatan baterai. Desain kokoh. Dan layar Super Retina XDR yang lebih cerah.\n\nIsi Kotak :\n• iPhone dengan iOS 15.\n• Kabel USB-C ke Lightning.\n• Buku Manual dan dokumentasi lain.",
+         "price":15199000,
+         "discountPercentage":24,
+         "rating":5,
+         "stock":46,
+         "condition":"Baru",
+         "category":"smartphones",
+         "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/ab8be3ca-5cf2-48ee-9f5a-0037f79a7df6.jpg",
+         "images":[
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/ab8be3ca-5cf2-48ee-9f5a-0037f79a7df6.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/17/08d57704-11ec-4676-8cb3-faa1dbfb5555.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/2/15/3582a94f-f64e-4467-8b29-b90a6900af02.jpg"
+         ],
+         "variant":{
+            "warna":[
+               "Midnight Black",
+               "Starlight White",
+               "Blue",
+               "Yellow",
+               "Pink",
+               "Green"
+            ],
+            "memori":[
+               "128GB",
+               "256GB",
+               "512GB"
             ]
-        },
-        {
-            "id": 3,
-            "title": "Samsung Universe 9",
-            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-            "price": 1249,
-            "discountPercentage": 15.46,
-            "rating": 4.09,
-            "stock": 36,
-            "brand": "Samsung",
-            "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/3/1.jpg"
+         }
+      },
+      {
+         "id":3,
+         "title":"Xiaomi POCO F5 (12GB+7GB/256GB) | (8GB+5GB/256GB) Snapdragon",
+         "description":"Xiaomi Official POCO F5 adalah smartphone terbaru dengan desain yang elegan dan fitur canggih. Tersedia dalam tiga pilihan warna yaitu Putih, Hitam, dan Biru.\n\nProsesor:\n\nSnapdragon 7+ Gen 2 Mobile Platform\nCPU: 1 x Cortex-X2, hingga 2.91GHz; 3x A710\nGPU: Qualcomm Adreno GPU\nRAM/Storage:\n\n8GB+5GB/256GB, 12GB+7GB/256GB\nDynamic RAM expansion 3.0\nLayar: Layar Dot Flow AMOLED 6.67\" FHD+\n\nResolusi: 2400 x 1080\nRefresh rate: Hingga 120Hz\nCorning Gorilla Glass 5\nSunlight Display\nDolby Vision\nKamera Belakang:\n\nKamera Utama 64MP\nKamera Ultra-wide 8MP\nKamera Macro 2MP\nKualitas Video ->\n4K 3840 x 2160 | 30fps\n1080p 1920 x 1080 | 60fps\n1080p 1920 x 1080 | 30fps\n720p 1280 x 720 | 30fps\nKamera Depan: 16MP (f/2.45)\nKualitas Video ->\n\n1080p 1920 x 1080 | 60fps\n1080p 1920 x 1080 | 30fps\n720p 1280 x 720 | 30fps\nXiaomi Official POCO F5 adalah smartphone yang sangat cocok untuk pengguna yang menginginkan performa tinggi dan fitur kamera yang kuat. Dengan layar Dot Flow AMOLED yang indah dan refresh rate hingga 120Hz, Anda dapat menikmati tampilan yang halus dan jernih. Prosesor Snapdragon 7+ Gen 2 Mobile Platform memberikan kecepatan tinggi dan performa yang andal, sementara RAM dan penyimpanan yang luas memungkinkan Anda untuk menyimpan banyak aplikasi, foto, dan video.\n\nDengan kamera belakang 64MP, Anda dapat mengambil foto berkualitas tinggi dengan detail yang tajam. Kamera ultra-wide 8MP memungkinkan Anda mengambil foto panorama yang luas, sementara kamera macro 2MP memungkinkan Anda untuk menangkap detail halus dari objek dekat. Kamera depan 16MP juga memberikan kualitas foto yang baik untuk selfie dan panggilan video.\n\nPOCO F5 juga mendukung perekaman video hingga resolusi 4K, memungkinkan Anda untuk merekam momen berharga dalam kualitas yang luar biasa. Dengan baterai yang kuat dan fitur pengisian cepat, Anda dapat menggunakan POCO F5 sepanjang hari tanpa khawatir kehabisan daya.",
+         "price":5499000,
+         "discountPercentage":0,
+         "rating":4.9,
+         "stock":66,
+         "condition":"Baru",
+         "category":"smartphones",
+         "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/12/21/24acc504-dd53-4dce-905e-a77ddd7bd7f6.png",
+         "images":[
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/12/21/24acc504-dd53-4dce-905e-a77ddd7bd7f6.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/21851de6-be99-4cbf-9049-800be20a194b.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/310e6e8a-3938-47a4-8b78-eaacd70d3735.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/10/31/f3b5fd54-76ce-4487-9234-372475fdea4c.png"
+         ],
+         "variant":{
+            "warna":[
+               "Putih",
+               "Hitam",
+               "Biru"
+            ],
+            "capacity":[
+               "8+256GB",
+               "12+256GB"
             ]
-        },
-        {
-            "id": 4,
-            "title": "OPPOF19",
-            "description": "OPPO F19 is officially announced on April 2021.",
-            "price": 280,
-            "discountPercentage": 17.91,
-            "rating": 4.3,
-            "stock": 123,
-            "brand": "OPPO",
-            "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/4/1.jpg",
-                "https://i.dummyjson.com/data/products/4/2.jpg",
-                "https://i.dummyjson.com/data/products/4/3.jpg",
-                "https://i.dummyjson.com/data/products/4/4.jpg",
-                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+         }
+      },
+      {
+         "id":4,
+         "title":"XIAOMI Redmi Note 12 Pro 5G Kamera 50MP Sony IMX766 P-OLED",
+         "description":"Xiaomi Official Store Garansi Resmi, IMEI Resmi Terdaftar di IMEI KEMENPERIN\n\nLayar 6,67\" terbuat dari bahan fleksibel canggih, meningkatkan kecerahan dan menampilkan rentang warna yang lebih luas dengan kontras lebih tinggi, dipadukan dengan output yang lebih mulus untuk pengalaman menonton yang lebih hidup.\n\nRefresh rate tinggi 120Hz, Tampilan halaman web, video, game, dan lainnya yang lebih mulus. Dolby Vision bermitra dengan HDR10+, menghadirkan kualitas gambar yang tak terkalahkan, bersama dengan Dolby Atmos dan speaker ganda, sehingga kamu dapat menikmati teater di telapak tangan Anda di mana saja, kapan saja.\n\nDilengkapi dengan kamera 50MP kamera utama dengan sensor IMX766 menjadi pilihan unggulan banyak smartphone. Ukuran sensor 1/1,56\" yang besar memungkinkan asupan cahaya yang lebih banyak dan All-pixel Auto Focus yang canggih mampu membuat pemfokusan otomatis berkecepatan tinggi menjadi kenyataan. Kamera yang dilengkapi dengan OIS, stabil di segala situasi.\n\nBaterai berkapasitas tinggi 5000mAh dibangun di dalam bodi setipis 7,99mm ini dan memastikan pengalaman pengguna yang lebih tahan lama dan lebih lancar. Dengan 67W turbo charging, 15 menit menjadi rahasia untuk menangani hampir semua hal. Sekarang dalam genggamanmu.\n\nEfisiensi jelas dari MediaTek Dimensity 1080 dengan 5G. Chipset proses 6nm yang canggih meningkatkan kecepatan keseluruhan dan mengurangi konsumsi daya, memberikan kinerja yang hebat dalam pembuatan video dan gambar, game, dan konektivitas 5G*. Kombinasi penyimpanan dan RAM yang cepat, Kelancaran yang tinggi dengan memori hingga 8GB. Instal aplikasi favorit kamu dan abadikan momen melalui foto & video dengan penyimpanan hingga 256GB.\n\n5G bebas hambatan. Kecepatan yang lebih cepat dan pita frekuensi yang lebih banyak memungkinkan kamu dan teman kamu berkomunikasi secara online seolah-olah kamu sedang bertatap muka.\n\nIsi Kemasan\nRedmi Note 12 Pro 5G / Adapter",
+         "price":4599000,
+         "discountPercentage":4,
+         "rating":4.9,
+         "stock":98,
+         "category":"smartphones",
+         "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/8279f4ad-6230-4362-90b9-2c3cdaff900a.jpg",
+         "images":[
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/28/8279f4ad-6230-4362-90b9-2c3cdaff900a.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/22/851b9c9a-6337-4ee9-a823-8b9a45c07e11.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/8/22/2fbb6be0-b619-40fa-ae3e-b61961fd8fe7.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/4/3/2b0f0334-175c-4354-b196-2a4ee2a246cc.png",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/4/3/281361e4-c9cf-4855-8a50-ffb20eeba4f9.png"
+         ],
+         "variant":{
+            "warna":[
+               "Sky Blue",
+               "Midnight Black"
+            ],
+            "memori":[
+               "8/256GB"
             ]
-        },
-        {
-            "id": 5,
-            "title": "Huawei P30",
-            "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-            "price": 499,
-            "discountPercentage": 10.58,
-            "rating": 4.09,
-            "stock": 32,
-            "brand": "Huawei",
-            "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/5/1.jpg",
-                "https://i.dummyjson.com/data/products/5/2.jpg",
-                "https://i.dummyjson.com/data/products/5/3.jpg"
+         }
+      },
+      {
+         "id":5,
+         "title":"OPPO Reno8 T 5G Smartphone 8GB/256GB (Garansi Resmi)",
+         "description":"OPPO Reno8 T 5G 8GB/256GB\n\nUKURAN DAN BOBOT\nTinggi: 162,3mm\nLebar: 74,3mm\nKetebalan: 7.7mm\nBerat: 171g\n\nPENYIMPANAN\nKapasitas RAM dan ROM: 8GB+256GB\nJenis RAM: LPDDR4X\nSpesifikasi ROM: UFS2.2\nKartu Penyimpanan: Didukung\nUSB OTG: Didukung\n\nLAYAR\nUkuran: 6,7 inci\nRasio Layar: 93,0%\nResolusi: FHD+ (2412x1080)\nRefresh Rate: Hingga 120Hz\nKedalaman Warna: 1,07 miliar warna\nKerapatan Piksel: 394 PPI\nPanel: OLED fleksibel 3D\nKaca Pelindung: AGC DT-Star2\n\nKAMERA\n\nBelakang\nKamera utama: 108MP; f/1.7; FOV 84°; lensa 6P; AF\nKamera depth: 2MP; f/2.4; FOV 89°; lensa 3P; FF\nMicrolens: 2MP; f/3.3; FOV 65°; lensa 3P; FF\n\nDepan\n32MP; f/2.4; FOV 89°; lensa 5P; FF\n\nCHIPSET\nSoC: Qualcomm Snapdragon™ 695 (SDM 695) Licensed by Qualcomm\nCPU: 8 inti, hingga 2.2GHz\nGPU: Adreno™ 619 @ 840MHz\n\nBATERAI\n4690mAh/18.15Wh (Rated)\n4800mAh/18.57Wh (Umum)\nPengisian Cepat:\nSUPERVOOCTM 67W\nSUPERVOOCTM 60W/50W/33W dan USB-PD (9V, 1.5A)\nOTG reverse charging\n\nBIOMETRIK\nSidik Jari: Didukung\nPengenalan Wajah: Didukung\n\nJARINGAN SELULER\nSIM 2: Didukung\nJenis Kartu SIM: Nano-SIM card\nPita Frekuensi:\nGSM: 900/1800MHz\nWCDMA Bands: 900/2100MHz\nLTE FDD Bands: 1/3/5/8\nTD-LTE Band: 40\n5G NR: n1/n3/n5/n8/n40\n\nKONEKTIVITAS\nWLAN:\nWi-Fi 5 (802.11ac) dan 802.11a/b/g/n;\nWi-Fi 2,4 GHz, 5,1 GHz, dan 5,8 GHz;\nTampilan Wi-Fi dan tethering Wi-Fi\nVersi Bluetooth: Bluetooth v5.1, TWS Energi Rendah\nKodek Audio Bluetooth: SBC, AAC, aptX, aptX HD, dan LDAC\nAntarmuka USB: USB Tipe-C\nJack Earphone: Tipe-C\nNFC: Mendukung akses baca dan tulis ke kartu NFC 13,56MHz\nMendukung kartu NFC-SIM (slot SIM 1 saja) dan pembayaran HCE\n\nSISTEM OPERASI\nColorOS 13\n\nDI DALAM KOTAK\nPerangkat x 1\nPengisi daya x 1\nKabel data USB x 1\nAlat SIM ejector x 1\nPanduan Cepat x 1\nPanduan Keselamatan x 1\nCase Pelindung x 1",
+         "price":6499000,
+         "discountPercentage":23,
+         "rating":4.7,
+         "stock":52,
+         "category":"smartphones",
+         "thumbnail":"https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/461b08c0-7e97-4ad5-bb2a-133303aee1db.jpg",
+         "images":[
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/461b08c0-7e97-4ad5-bb2a-133303aee1db.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/10/685815d6-0bf7-4f51-9228-9c51570bc40d.jpg",
+            "https://images.tokopedia.net/img/cache/900/VqbcmM/2023/3/1/7fc06090-89ca-4487-bdd1-f4c7f7258da5.jpg"
+         ],
+         "variant":{
+            "warna":[
+               "Hitam",
+               "Gold"
             ]
-        },
-        {
-            "id": 6,
-            "title": "MacBook Pro",
-            "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
-            "price": 1749,
-            "discountPercentage": 11.02,
-            "rating": 4.57,
-            "stock": 83,
-            "brand": "Apple",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
-            "images": [
-                "https://i.dummyjson.com/data/products/6/1.png",
-                "https://i.dummyjson.com/data/products/6/2.jpg",
-                "https://i.dummyjson.com/data/products/6/3.png",
-                "https://i.dummyjson.com/data/products/6/4.jpg"
-            ]
-        },
-        {
-            "id": 7,
-            "title": "Samsung Galaxy Book",
-            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-            "price": 1499,
-            "discountPercentage": 4.15,
-            "rating": 4.25,
-            "stock": 50,
-            "brand": "Samsung",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/7/1.jpg",
-                "https://i.dummyjson.com/data/products/7/2.jpg",
-                "https://i.dummyjson.com/data/products/7/3.jpg",
-                "https://i.dummyjson.com/data/products/7/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 8,
-            "title": "Microsoft Surface Laptop 4",
-            "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
-            "price": 1499,
-            "discountPercentage": 10.23,
-            "rating": 4.43,
-            "stock": 68,
-            "brand": "Microsoft Surface",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/8/1.jpg",
-                "https://i.dummyjson.com/data/products/8/2.jpg",
-                "https://i.dummyjson.com/data/products/8/3.jpg",
-                "https://i.dummyjson.com/data/products/8/4.jpg",
-                "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 9,
-            "title": "Infinix INBOOK",
-            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-            "price": 1099,
-            "discountPercentage": 11.83,
-            "rating": 4.54,
-            "stock": 96,
-            "brand": "Infinix",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/9/1.jpg",
-                "https://i.dummyjson.com/data/products/9/2.png",
-                "https://i.dummyjson.com/data/products/9/3.png",
-                "https://i.dummyjson.com/data/products/9/4.jpg",
-                "https://i.dummyjson.com/data/products/9/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 10,
-            "title": "HP Pavilion 15-DK1056WM",
-            "description": "HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10",
-            "price": 1099,
-            "discountPercentage": 6.18,
-            "rating": 4.43,
-            "stock": 89,
-            "brand": "HP Pavilion",
-            "category": "laptops",
-            "thumbnail": "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
-            "images": [
-                "https://i.dummyjson.com/data/products/10/1.jpg",
-                "https://i.dummyjson.com/data/products/10/2.jpg",
-                "https://i.dummyjson.com/data/products/10/3.jpg",
-                "https://i.dummyjson.com/data/products/10/thumbnail.jpeg"
-            ]
-        },
-        {
-            "id": 11,
-            "title": "perfume Oil",
-            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-            "price": 13,
-            "discountPercentage": 8.4,
-            "rating": 4.26,
-            "stock": 65,
-            "brand": "Impression of Acqua Di Gio",
-            "category": "fragrances",
-            "thumbnail": "https://i.dummyjson.com/data/products/11/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/11/1.jpg",
-                "https://i.dummyjson.com/data/products/11/2.jpg",
-                "https://i.dummyjson.com/data/products/11/3.jpg",
-                "https://i.dummyjson.com/data/products/11/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 12,
-            "title": "Brown Perfume",
-            "description": "Royal_Mirage Sport Brown Perfume for Men & Women - 120ml",
-            "price": 40,
-            "discountPercentage": 15.66,
-            "rating": 4,
-            "stock": 52,
-            "brand": "Royal_Mirage",
-            "category": "fragrances",
-            "thumbnail": "https://i.dummyjson.com/data/products/12/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/12/1.jpg",
-                "https://i.dummyjson.com/data/products/12/2.jpg",
-                "https://i.dummyjson.com/data/products/12/3.png",
-                "https://i.dummyjson.com/data/products/12/4.jpg",
-                "https://i.dummyjson.com/data/products/12/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 13,
-            "title": "Fog Scent Xpressio Perfume",
-            "description": "Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men",
-            "price": 13,
-            "discountPercentage": 8.14,
-            "rating": 4.59,
-            "stock": 61,
-            "brand": "Fog Scent Xpressio",
-            "category": "fragrances",
-            "thumbnail": "https://i.dummyjson.com/data/products/13/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/13/1.jpg",
-                "https://i.dummyjson.com/data/products/13/2.png",
-                "https://i.dummyjson.com/data/products/13/3.jpg",
-                "https://i.dummyjson.com/data/products/13/4.jpg",
-                "https://i.dummyjson.com/data/products/13/thumbnail.webp"
-            ]
-        },
-        {
-            "id": 14,
-            "title": "Non-Alcoholic Concentrated Perfume Oil",
-            "description": "Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil",
-            "price": 120,
-            "discountPercentage": 15.6,
-            "rating": 4.21,
-            "stock": 114,
-            "brand": "Al Munakh",
-            "category": "fragrances",
-            "thumbnail": "https://i.dummyjson.com/data/products/14/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/14/1.jpg",
-                "https://i.dummyjson.com/data/products/14/2.jpg",
-                "https://i.dummyjson.com/data/products/14/3.jpg",
-                "https://i.dummyjson.com/data/products/14/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 15,
-            "title": "Eau De Perfume Spray",
-            "description": "Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality",
-            "price": 30,
-            "discountPercentage": 10.99,
-            "rating": 4.7,
-            "stock": 105,
-            "brand": "Lord - Al-Rehab",
-            "category": "fragrances",
-            "thumbnail": "https://i.dummyjson.com/data/products/15/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/15/1.jpg",
-                "https://i.dummyjson.com/data/products/15/2.jpg",
-                "https://i.dummyjson.com/data/products/15/3.jpg",
-                "https://i.dummyjson.com/data/products/15/4.jpg",
-                "https://i.dummyjson.com/data/products/15/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 16,
-            "title": "Hyaluronic Acid Serum",
-            "description": "L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid",
-            "price": 19,
-            "discountPercentage": 13.31,
-            "rating": 4.83,
-            "stock": 110,
-            "brand": "L'Oreal Paris",
-            "category": "skincare",
-            "thumbnail": "https://i.dummyjson.com/data/products/16/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/16/1.png",
-                "https://i.dummyjson.com/data/products/16/2.webp",
-                "https://i.dummyjson.com/data/products/16/3.jpg",
-                "https://i.dummyjson.com/data/products/16/4.jpg",
-                "https://i.dummyjson.com/data/products/16/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 17,
-            "title": "Tree Oil 30ml",
-            "description": "Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,",
-            "price": 12,
-            "discountPercentage": 4.09,
-            "rating": 4.52,
-            "stock": 78,
-            "brand": "Hemani Tea",
-            "category": "skincare",
-            "thumbnail": "https://i.dummyjson.com/data/products/17/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/17/1.jpg",
-                "https://i.dummyjson.com/data/products/17/2.jpg",
-                "https://i.dummyjson.com/data/products/17/3.jpg",
-                "https://i.dummyjson.com/data/products/17/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 18,
-            "title": "Oil Free Moisturizer 100ml",
-            "description": "Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen.",
-            "price": 40,
-            "discountPercentage": 13.1,
-            "rating": 4.56,
-            "stock": 88,
-            "brand": "Dermive",
-            "category": "skincare",
-            "thumbnail": "https://i.dummyjson.com/data/products/18/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/18/1.jpg",
-                "https://i.dummyjson.com/data/products/18/2.jpg",
-                "https://i.dummyjson.com/data/products/18/3.jpg",
-                "https://i.dummyjson.com/data/products/18/4.jpg",
-                "https://i.dummyjson.com/data/products/18/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 19,
-            "title": "Skin Beauty Serum.",
-            "description": "Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m",
-            "price": 46,
-            "discountPercentage": 10.68,
-            "rating": 4.42,
-            "stock": 54,
-            "brand": "ROREC White Rice",
-            "category": "skincare",
-            "thumbnail": "https://i.dummyjson.com/data/products/19/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/19/1.jpg",
-                "https://i.dummyjson.com/data/products/19/2.jpg",
-                "https://i.dummyjson.com/data/products/19/3.png",
-                "https://i.dummyjson.com/data/products/19/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 20,
-            "title": "Freckle Treatment Cream- 15gm",
-            "description": "Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects.",
-            "price": 70,
-            "discountPercentage": 16.99,
-            "rating": 4.06,
-            "stock": 140,
-            "brand": "Fair & Clear",
-            "category": "skincare",
-            "thumbnail": "https://i.dummyjson.com/data/products/20/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/20/1.jpg",
-                "https://i.dummyjson.com/data/products/20/2.jpg",
-                "https://i.dummyjson.com/data/products/20/3.jpg",
-                "https://i.dummyjson.com/data/products/20/4.jpg",
-                "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 21,
-            "title": "- Daal Masoor 500 grams",
-            "description": "Fine quality Branded Product Keep in a cool and dry place",
-            "price": 20,
-            "discountPercentage": 4.81,
-            "rating": 4.44,
-            "stock": 133,
-            "brand": "Saaf & Khaas",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/21/thumbnail.png",
-            "images": [
-                "https://i.dummyjson.com/data/products/21/1.png",
-                "https://i.dummyjson.com/data/products/21/2.jpg",
-                "https://i.dummyjson.com/data/products/21/3.jpg"
-            ]
-        },
-        {
-            "id": 22,
-            "title": "Elbow Macaroni - 400 gm",
-            "description": "Product details of Bake Parlor Big Elbow Macaroni - 400 gm",
-            "price": 14,
-            "discountPercentage": 15.58,
-            "rating": 4.57,
-            "stock": 146,
-            "brand": "Bake Parlor Big",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/22/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/22/1.jpg",
-                "https://i.dummyjson.com/data/products/22/2.jpg",
-                "https://i.dummyjson.com/data/products/22/3.jpg"
-            ]
-        },
-        {
-            "id": 23,
-            "title": "Orange Essence Food Flavou",
-            "description": "Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item",
-            "price": 14,
-            "discountPercentage": 8.04,
-            "rating": 4.85,
-            "stock": 26,
-            "brand": "Baking Food Items",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/23/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/23/1.jpg",
-                "https://i.dummyjson.com/data/products/23/2.jpg",
-                "https://i.dummyjson.com/data/products/23/3.jpg",
-                "https://i.dummyjson.com/data/products/23/4.jpg",
-                "https://i.dummyjson.com/data/products/23/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 24,
-            "title": "cereals muesli fruit nuts",
-            "description": "original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji",
-            "price": 46,
-            "discountPercentage": 16.8,
-            "rating": 4.94,
-            "stock": 113,
-            "brand": "fauji",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/24/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/24/1.jpg",
-                "https://i.dummyjson.com/data/products/24/2.jpg",
-                "https://i.dummyjson.com/data/products/24/3.jpg",
-                "https://i.dummyjson.com/data/products/24/4.jpg",
-                "https://i.dummyjson.com/data/products/24/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 25,
-            "title": "Gulab Powder 50 Gram",
-            "description": "Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds",
-            "price": 70,
-            "discountPercentage": 13.58,
-            "rating": 4.87,
-            "stock": 47,
-            "brand": "Dry Rose",
-            "category": "groceries",
-            "thumbnail": "https://i.dummyjson.com/data/products/25/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/25/1.png",
-                "https://i.dummyjson.com/data/products/25/2.jpg",
-                "https://i.dummyjson.com/data/products/25/3.png",
-                "https://i.dummyjson.com/data/products/25/4.jpg",
-                "https://i.dummyjson.com/data/products/25/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 26,
-            "title": "Plant Hanger For Home",
-            "description": "Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf",
-            "price": 41,
-            "discountPercentage": 17.86,
-            "rating": 4.08,
-            "stock": 131,
-            "brand": "Boho Decor",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/26/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/26/1.jpg",
-                "https://i.dummyjson.com/data/products/26/2.jpg",
-                "https://i.dummyjson.com/data/products/26/3.jpg",
-                "https://i.dummyjson.com/data/products/26/4.jpg",
-                "https://i.dummyjson.com/data/products/26/5.jpg",
-                "https://i.dummyjson.com/data/products/26/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 27,
-            "title": "Flying Wooden Bird",
-            "description": "Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm",
-            "price": 51,
-            "discountPercentage": 15.58,
-            "rating": 4.41,
-            "stock": 17,
-            "brand": "Flying Wooden",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/27/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/27/1.jpg",
-                "https://i.dummyjson.com/data/products/27/2.jpg",
-                "https://i.dummyjson.com/data/products/27/3.jpg",
-                "https://i.dummyjson.com/data/products/27/4.jpg",
-                "https://i.dummyjson.com/data/products/27/thumbnail.webp"
-            ]
-        },
-        {
-            "id": 28,
-            "title": "3D Embellishment Art Lamp",
-            "description": "3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included)",
-            "price": 20,
-            "discountPercentage": 16.49,
-            "rating": 4.82,
-            "stock": 54,
-            "brand": "LED Lights",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/28/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/28/1.jpg",
-                "https://i.dummyjson.com/data/products/28/2.jpg",
-                "https://i.dummyjson.com/data/products/28/3.png",
-                "https://i.dummyjson.com/data/products/28/4.jpg",
-                "https://i.dummyjson.com/data/products/28/thumbnail.jpg"
-            ]
-        },
-        {
-            "id": 29,
-            "title": "Handcraft Chinese style",
-            "description": "Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate",
-            "price": 60,
-            "discountPercentage": 15.34,
-            "rating": 4.44,
-            "stock": 7,
-            "brand": "luxury palace",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/29/thumbnail.webp",
-            "images": [
-                "https://i.dummyjson.com/data/products/29/1.jpg",
-                "https://i.dummyjson.com/data/products/29/2.jpg",
-                "https://i.dummyjson.com/data/products/29/3.webp",
-                "https://i.dummyjson.com/data/products/29/4.webp",
-                "https://i.dummyjson.com/data/products/29/thumbnail.webp"
-            ]
-        },
-        {
-            "id": 30,
-            "title": "Key Holder",
-            "description": "Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality",
-            "price": 30,
-            "discountPercentage": 2.92,
-            "rating": 4.92,
-            "stock": 54,
-            "brand": "Golden",
-            "category": "home-decoration",
-            "thumbnail": "https://i.dummyjson.com/data/products/30/thumbnail.jpg",
-            "images": [
-                "https://i.dummyjson.com/data/products/30/1.jpg",
-                "https://i.dummyjson.com/data/products/30/2.jpg",
-                "https://i.dummyjson.com/data/products/30/3.jpg",
-                "https://i.dummyjson.com/data/products/30/thumbnail.jpg"
-            ]
-        }
-    ],
-    success:true,
-  code:'200',
-  result:30
+         }
+      }
+   ],
+   "success":true,
+   "code":"200",
+   "result":30
 }
